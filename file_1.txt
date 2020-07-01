@@ -2,3 +2,8 @@ This is a lot of fun
 Hello world!
 My name is Aaron
 I am learning how to use Git
+
+Thank you for neing my buddy
+Sorry for all the extra trouble
+
+Also I learned that I had to delete the whole repository redo the fork to make this work form the access denied issue
