@@ -1,3 +1,4 @@
+This is a lot of fun
 Hello world!
 My name is Aaron
 I am learning how to use Git
